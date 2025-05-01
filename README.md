@@ -45,7 +45,7 @@
 
 ## 📚 Project Repositories
 
-- 🔗 **Frontend Repository**: [Vybe Frontend GitHub](https://github.com/itzmk06/vybe-react-auth-ver/)
+- 🔗 **Frontend Repository**: [Vybe Frontend GitHub](https://github.com/itzmk06/vybe-django-frontend)
 - 🔗 **Backend Repository**: [Vybe Backend (Django)](https://github.com/itzmk06/vybe-django-backend) <!-- Replace if needed -->
 - 🔗 **ML Stuff (Colab)**: [Vybe ML Notebook](https://colab.research.google.com/drive/179msXUtzTi3gff3DAik6BkcIlXbxSPQ3?usp=sharing)
 
