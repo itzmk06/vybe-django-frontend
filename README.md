@@ -39,10 +39,6 @@
 
 ---
 
-## 🌍 Live Project
-
-- 🎥 **Demo Video**: [Vybe Demo Video](https://drive.google.com/file/d/1fB9PrJenVZ9hBysU5eUydNBXs114gnT-/view?usp=drive_link)
-
 ## 📚 Project Repositories
 
 - 🔗 **Frontend Repository**: [Vybe Frontend GitHub](https://github.com/itzmk06/vybe-django-frontend)
